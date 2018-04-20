@@ -8,4 +8,4 @@ As a part of my Topics in Vision and Learning course, I will upload a research p
 * Week 5: GRAD-CAM: Visual Explanations from Deep Networks via Gradient-based Localizaiton [[paper](https://arxiv.org/abs/1610.02391)] [[summary](GRAD-CAM.pdf)]
 * Week 6: Paying more attention to Attention: Improving the performance of (student) CNNs via Attention Transfer [[paper](https://arxiv.org/abs/1612.03928)] [[summary](attention_transfer.pdf)]
 * Week 7: FitNets: Hints For Thin Deep Nets [[paper](https://arxiv.org/abs/1412.6550)] [[summary](FitNets.pdf)]
-
+* Week 8: Deep Model Compression: Distilling Knowledge from Noisy Teachers [[paper](https://arxiv.org/abs/1610.09650)] [[summary](Distilling_knowledge_noisy_teachers.pdf)]
