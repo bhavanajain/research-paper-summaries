@@ -10,3 +10,4 @@ As a part of my Topics in Vision and Learning course, I will upload a research p
 * Week 7: FitNets: Hints For Thin Deep Nets [[paper](https://arxiv.org/abs/1412.6550)] [[summary](FitNets.pdf)]
 * Week 8: Deep Model Compression: Distilling Knowledge from Noisy Teachers [[paper](https://arxiv.org/abs/1610.09650)] [[summary](Distilling_knowledge_noisy_teachers.pdf)]
 * Week 9: Data-free Knowledge Distillation for Deep Neural Networks [[paper](https://arxiv.org/abs/1710.07535)] [[summary](Data-free_knowlegde_distillation.pdf)]
+* Week 10: Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verificatio [[paper](https://arxiv.org/pdf/1709.02929.pdf)] [[summary](knowledge_transfer_face_classification_alignment_verification.pdf)]
